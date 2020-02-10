@@ -1,3 +1,5 @@
+//BETA AND NOT TESTED
+
 //Variables start
 set pitch to heading(90,85).
 
