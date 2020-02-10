@@ -1,3 +1,5 @@
+//NOT FUNCTIONAL
+
 //Variables and functions start
 set pitch to heading(90,85).
 
