@@ -37,6 +37,9 @@ stage.
 wait 15.
 stage.
 
+wait until ship:altitude < 70000.
+brakes on.
+
 wait until ship:altitude < 7000.
 stage.
 
